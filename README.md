@@ -108,12 +108,3 @@ The Employee Management System is built upon the Django web framework and utiliz
 
 
 
-## Contact
-
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer:
-
-- Name: Rahil Nelliyali
-- Email: rahilnelliyali0@gmail.com
-- GitHub: [Rahil Nelliyali](https://github.com/Rahil-Nelliyali)
-
-Thank you for using the Employee Management System! We hope it helps streamline your employee management tasks.
