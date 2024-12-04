@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-yc0(hw5042q-cojenwri4v#&)xbyczql#5a*bfr@9z+g7to)_*
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'employeemanagement-env.eba-itxdueew.eu-west-1.elasticbeanstalk.com',
+    'http://management-env.eba-tnqtamwm.eu-west-1.elasticbeanstalk.com/',
     'elasticbeanstalk.com',  
     'localhost',       
     '127.0.0.1',      
