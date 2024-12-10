@@ -27,8 +27,10 @@ SECRET_KEY = 'django-insecure-yc0(hw5042q-cojenwri4v#&)xbyczql#5a*bfr@9z+g7to)_*
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '3.253.62.138',     
+    'emoloyeem-env.eba-iqvkrb9d.eu-west-1.elasticbeanstalk.com',  # Elastic Beanstalk environment DNS
+    'localhost',  # For local testing (optional)
 ]
+
 
 
 
