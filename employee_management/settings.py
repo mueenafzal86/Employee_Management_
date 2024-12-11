@@ -28,7 +28,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '52.18.12.54',  # Elastic Beanstalk environment DNS
-    'localhost',  # For local testing (optional)
+    'localhost',
+    'http://mueeen-env.eba-7m9325gv.eu-west-1.elasticbeanstalk.com/'# For local testing (optional)
 ]
 
 
