@@ -1,0 +1,10 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - echo "Running ls command"
+      - ls -l  # List the contents of the current directory
+artifacts:
+  files:
+    - '**/*'  # You can specify the files to include in the artifact for deployment
