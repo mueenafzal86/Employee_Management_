@@ -27,10 +27,11 @@ SECRET_KEY = 'django-insecure-yc0(hw5042q-cojenwri4v#&)xbyczql#5a*bfr@9z+g7to)_*
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '52.18.12.54',  # Elastic Beanstalk environment DNS
-    'localhost',
-    'http://mueeen-env.eba-7m9325gv.eu-west-1.elasticbeanstalk.com/'# For local testing (optional)
+    '52.18.12.54',  
+    'localhost',  
+    'mueeen-env.eba-7m9325gv.eu-west-1.elasticbeanstalk.com'  
 ]
+
 
 
 
